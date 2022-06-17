@@ -40,8 +40,8 @@ Developed by:
 RegisterNumber: 
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: Anto Richard.S
-RegisterNumber: 212221240005
+Developed by: VETRIVEL S
+RegisterNumber: 212221240060
 */
 
 import pandas as pd
